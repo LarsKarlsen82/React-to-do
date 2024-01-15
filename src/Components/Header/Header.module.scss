@@ -1,0 +1,27 @@
+@import '../../assets/css/Variables.scss';
+
+
+// Header.module.scss
+
+.container {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: $Golden;
+  }
+  
+  h1 {
+    font-size: 8em;
+    font-weight: 100;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    color: $Black;;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;  
+    text-underline-offset: 10px
+  
+  }
+  
